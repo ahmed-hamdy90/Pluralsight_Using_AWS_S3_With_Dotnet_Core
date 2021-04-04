@@ -1,0 +1,7 @@
+.idea/
+LifeBackup.Api/obj/
+LifeBackup.Core/obj/
+LifeBackup.Infrastructure/obj/
+LifeBackup.Api/bin/
+LifeBackup.Core/bin/
+LifeBackup.Infrastructure/bin/

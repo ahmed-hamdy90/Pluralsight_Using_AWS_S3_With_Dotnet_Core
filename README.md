@@ -1,0 +1,1 @@
+#### This Repository Follow Pluralsight course for [Using S3 with .NET Core on AWS](https://app.pluralsight.com/library/courses/aws-dotnet-core-using-s3)
